@@ -19,7 +19,7 @@
     "type": "git",
     "url": "https://github.com/StefanDywersant/express-request-logs.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2",
     "useragent": "^2.1.9"
