@@ -1,6 +1,6 @@
 {
   "name": "express-request-logs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Express middleware for logging HTTP requests using Winston backend",
   "main": "dist/logger.js",
   "scripts": {
